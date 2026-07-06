@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 电商网站登录模块自动化测试脚本 - 实际页面版
-测试人员：【张三】
-测试时间：2024.03.10
+测试人员：ztingS
+测试时间：2026.6.30
 测试网站：https://demo.guru99.com/test/login.html（电商登录页面）
 """
 import sys
